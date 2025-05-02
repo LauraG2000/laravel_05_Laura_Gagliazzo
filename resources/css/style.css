@@ -1,0 +1,39 @@
+body{
+    color: wheat;
+    background-color:rgb(59, 33, 23);
+}
+
+
+.bg-custom{
+    background-image: url(../../public/background.png);
+    background-position: center;
+    background-repeat:  no-repeat;
+    background-size: cover;
+}
+
+.title{
+    font-weight: 600;
+}
+
+.height-custom{
+    height: 40vh;
+}
+
+/* Form */
+.text-custom{
+    color: wheat;
+}
+
+.text-custom-btn{
+    color: rgb(120, 63, 55);
+    font-weight: 600;
+}
+
+.bg-wheat{
+    background-color: wheat;
+}
+
+.form-opacity {
+    background-color: rgba(120, 63, 55, 0.522);
+    border-radius: 8px;
+}
