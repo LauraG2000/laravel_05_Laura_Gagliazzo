@@ -6,7 +6,7 @@
                     <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
                         <div class="carousel-inner">
                             <div class="carousel-item active">
-                                <img id="coffee" src="{{ asset('images/img1.png') }}" class="d-block align-items-center img-carusel scroll-img" alt="coffeePic">
+                                <img id="coffee" src="{{ asset('images/img2.png') }}" class="d-block align-items-center img-carusel scroll-img" alt="milkshakePic">
                             </div>
                         </div>
                     </div>
@@ -15,10 +15,10 @@
                     <div class="row d-flex justify-content-center align-items-center py-3 gap-4">
                         <div class="col-12 col-md-6 d-flex justify-content-end box">
                             
-                            <img src="{{ asset('images/card4.png') }}" class="coffeeCard img-box padding-box" alt="card4">
+                            <img src="{{ asset('images/card5.png') }}" class="coffeeCard img-box padding-box" alt="card4">
                             <div class="col-12 col-md-6 d-flex justify-content-start">
                                 <div class="container-fluid text-center">
-                                    <p class="padding-text">{{ $text1 }}</p>
+                                    <p class="padding-text">{{ $text2 }}</p>
                                 </div>
                             </div>
                         </div>

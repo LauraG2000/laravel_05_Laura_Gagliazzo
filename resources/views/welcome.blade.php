@@ -30,7 +30,7 @@
                             alt="card1">
                         <div class="card-body">
                             <h5 class="card-title">Coffes</h5>
-                            <a href="#" class="btn btn-custom">Open</a>
+                            <a href="{{  route('coffee')  }}" class= "btn btn-custom">Open</a>
                         </div>
                     </div>
 
@@ -39,8 +39,8 @@
                             class="img-fluid d-block mx-auto card-img"
                             alt="card2">
                         <div class="card-body">
-                            <h5 class="card-title">Coffes</h5>
-                            <a href="#" class="btn btn-custom">Open</a>
+                            <h5 class="card-title">Milk-Shakes</h5>
+                            <a href="{{  route('milkshake')  }}"class="btn btn-custom">Open</a>
                         </div>
                     </div>
 
@@ -49,8 +49,8 @@
                             class="img-fluid d-block mx-auto card-img"
                             alt="card3">
                         <div class="card-body">
-                            <h5 class="card-title">Coffes</h5>
-                            <a href="#" class="btn btn-custom">Open</a>
+                            <h5 class="card-title">Muffins</h5>
+                            <a href="{{  route('muffin')  }}" class="btn btn-custom">Open</a>
                         </div>
                     </div>
                 </div>

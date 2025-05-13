@@ -5,3 +5,6 @@ import 'bootstrap';
 import './navbar';
 // Contact js
 import './contact';
+// Coffee js
+import './coffee';
+
